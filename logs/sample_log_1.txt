@@ -1,0 +1,5 @@
+[000123ns] ERROR: [AXI-MASTER] Burst length exceeded at addr 0x0000A0C0 in module axi_master.sv line 245
+[000130ns] WARNING: Reset asserted unexpectedly in reset_ctrl.sv line 89
+[000135ns] INFO: Write completed for addr 0x0000B4E0 by slave_1
+[000140ns] ERROR: Data mismatch at addr 0x0000A0C0: expected 0xDEADBEEF, got 0xFEEDFACE
+[000150ns] WARNING: [UVM-ENV] Slow response time in router.sv line 312

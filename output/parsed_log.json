@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "000123ns",
+        "level": "ERROR",
+        "module": "unknown",
+        "message": "AXI-MASTER] Burst length exceeded at addr 0x0000A0C0",
+        "file": "module axi_master.sv",
+        "line": 245
+    },
+    {
+        "timestamp": "000150ns",
+        "level": "WARNING",
+        "module": "unknown",
+        "message": "UVM-ENV] Slow response time",
+        "file": "router.sv",
+        "line": 312
+    }
+]
